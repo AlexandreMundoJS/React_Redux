@@ -22,6 +22,7 @@ Este projeto foi feito levando em consideração o tutorial disponível em:
 - [x] ReactJS
 - [x] Redux
 - [x] React-Redux
+- [x] JavaScript
 - [x] HTML
 - [x] CSS
 
