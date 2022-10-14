@@ -1,9 +1,10 @@
 # Criando um carrinho de compras simples usando React + Redux
 
-## Available Scripts
+Este projeto simula um simples carrinho de e-commerce onde é possível incrementar e decrementar a quantidade de itens. Foi criado em vista de entender e aplicar
+os conceitos referentes ao uso de React + Redux, como Actions, Reducers e uma Store global para a aplicação.
+## Comandos disponíveis
 
 Para rodar o projeto, você pode usar o comando
-
 ### `npm start`
 
 Para buildar o projeto:
